@@ -1,1 +1,1 @@
-# rewards-test
+# Rewards endpoints
